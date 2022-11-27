@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ribekasuzuki
-- 👀 I’m interested in music and coding
-- 🌱 I’m currently learning coding and Brazilian percussion
+- 👀 I’m interested in coding and languages. I speak Portuguese, English, Spanish and Japanese
+- 🌱 I’m currently learning coding and taking my C1 Advanced Cambridge Certificate
 - 💞️ I’m looking to collaborate on making coding accessible for girls
 - 📫 How to reach me: ribeka.suzuki@gmail.com
 
