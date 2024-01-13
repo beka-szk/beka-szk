@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ribekasuzuki
+
 - 👀 I’m interested in coding and languages. I speak Portuguese, English, Spanish and Japanese
 - 🌱 I’m currently stydying coding on @codecademy
 - 💞️ I’m looking to collaborate on making coding accessible for girls
