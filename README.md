@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=984fc0&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=984fc0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Beka!;I'm+a+system+analysis+and+development+undergraduate,;and+a+back-end+student+at+Codecademy+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=984fc0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ribeka!;I'm+a+system+analysis+and+development+undergraduate,;and+a+back-end+student+at+Codecademy+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ribekasuzuki&show_icons=true&count_private=true&hide_border=true&title_color=984fc0&icon_color=781b7c&text_color=c9d1d9&bg_color=0d1117" alt="Beka's github stats"/> 
