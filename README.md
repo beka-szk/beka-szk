@@ -5,7 +5,7 @@
 
 
 <!---
-ribekasuzuki/ribekasuzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+beka-szk/beka-szk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -15,14 +15,14 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=984fc0&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ribeka!;I'm+a+system+analysis+and+development+undergraduate,;and+a+back-end+student+at+Codecademy+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ribekasuzuki&show_icons=true&count_private=true&hide_border=true&title_color=984fc0&icon_color=781b7c&text_color=c9d1d9&bg_color=0d1117" alt="Beka's github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribekasuzuki&layout=compact&hide_border=true&title_color=984fc0&text_color=984fc0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beka-szk&show_icons=true&count_private=true&hide_border=true&title_color=984fc0&icon_color=781b7c&text_color=c9d1d9&bg_color=0d1117" alt="Beka's github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beka-szk&layout=compact&hide_border=true&title_color=984fc0&text_color=984fc0&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ribekasuzuki&bg_color=000000&color=984fc0&line=781b7c&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beka-szk&bg_color=000000&color=984fc0&line=781b7c&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ribekasuzuki&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=beka-szk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---!<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ribekasuzuki}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{beka-szk}/count.svg" /></p> 
 <br></div>--->
 
 
