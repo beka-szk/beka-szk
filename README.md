@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)&nbsp;
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 <!---![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;--->
  
@@ -52,11 +52,15 @@ You can click the Preview link to take a look at your changes.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)&nbsp;
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)&nbsp;
+
+### Artificial intelligence Tools:
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
   
 ### Studying in this moment:
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 
 ### Languages I speak:
